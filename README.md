@@ -31,10 +31,10 @@ Clone link => [https://rad-wisp-02436f.netlify.app](https://lighthearted-melba-8
 
 ![App Screenshot](./Images/Skinstore.png)
 
-![App Screenshot](./readimages/Screenshot2%20.png)
+![App Screenshot](./Images/Screenshot (25).png)
 
-![App Screenshot](./readimages/Screenshot%203.png)
+![App Screenshot](./Images/Screenshot(25).png)
 
-![App Screenshot](./readimages/Screenshot4%20.png)
+![App Screenshot](./Images/Screenshot(25).png)
 
-![App Screenshot](./readimages/Screenshot%205.png)
+![App Screenshot](./Images/Screenshot(25).png)
