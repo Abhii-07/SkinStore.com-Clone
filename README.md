@@ -26,7 +26,7 @@ Tech Stack : The tech Stack we used for creating this website are :-
 - Multiple Images view on Hovering over images on Products page & Quick view Page.
 
 
-Clone link => [https://rad-wisp-02436f.netlify.app](https://lighthearted-melba-894d29.netlify.app/)
+Clone link => [https://lighthearted-melba-894d29.netlify.app/](https://lighthearted-melba-894d29.netlify.app/)
 
 
 ![App Screenshot](./Images/Skinstore.png)
